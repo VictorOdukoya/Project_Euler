@@ -1,7 +1,0 @@
-D:\Users\apwfq\Documents\GitHub\Project_Euler\Euler_1\bin\Debug\Euler_1.exe.config
-D:\Users\apwfq\Documents\GitHub\Project_Euler\Euler_1\bin\Debug\Euler_1.exe
-D:\Users\apwfq\Documents\GitHub\Project_Euler\Euler_1\bin\Debug\Euler_1.pdb
-D:\Users\apwfq\Documents\GitHub\Project_Euler\Euler_1\obj\Debug\Euler_1.csprojAssemblyReference.cache
-D:\Users\apwfq\Documents\GitHub\Project_Euler\Euler_1\obj\Debug\Euler_1.csproj.CoreCompileInputs.cache
-D:\Users\apwfq\Documents\GitHub\Project_Euler\Euler_1\obj\Debug\Euler_1.exe
-D:\Users\apwfq\Documents\GitHub\Project_Euler\Euler_1\obj\Debug\Euler_1.pdb
