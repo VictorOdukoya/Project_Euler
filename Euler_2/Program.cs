@@ -20,23 +20,17 @@ namespace Euler_2
 
         static void Main(string[] args)
         {
-
             int result = 0;
-            for(int i = 1; i < 100; i++)
+            int i = 1;
+            int fibNumber = 0;
+            while (fibNumber < 4000000)
             {
-                int fibNumber = fibonacci(i);
-                if(fibNumber > 4000000)
-                {
-                    break;
-                }
-                else
-                {
+                fibNumber = fibonacci(i);
                     if (fibNumber % 2 == 0)
                     {
                         result += fibNumber;
                     }
-                }
-                
+                i++;
             }
             Console.WriteLine(result);
         }
