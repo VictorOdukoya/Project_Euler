@@ -17,8 +17,8 @@ namespace Euler_3
         {
             getPrimeFactorsOf(600851475143);
         }
-
         // kinda messy but it works since we reduce 600851475143 to its largest factor and continue calculations with this factor
+        //TODO: remove the prime number list entirely, and factorize by using numbers larger than the previous ones (e.g. no need to check if factor of n is divisible by 2 if n is not divisble by 2)
         static void getPrimeFactorsOf(long n)
         {
             List<int> lstPrimeNumbers = new List<int>();
