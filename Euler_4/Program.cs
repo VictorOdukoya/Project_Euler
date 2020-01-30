@@ -10,7 +10,6 @@ namespace Euler_4
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine(getlargestPalindromeOfNDigitFactor(2));
         }
 
