@@ -19,7 +19,7 @@ namespace CSharp_Shell
         public static List<int> getPrimesToN(int n){
             List<int> primeNumbers = new List<int>();
             primeNumbers.Add(2);
-            
+            //TODO: increase i by 2, since we can ignore even numbers.
         	for(int i = 2; primeNumbers.Count < n; i++){
         		//check if i is divisble by a prime number
         		for(int j = 0; j < primeNumbers.Count; j++){
